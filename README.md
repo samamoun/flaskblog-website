@@ -12,12 +12,11 @@ This application includes a user management system that can register the users. 
 <img width="1000" alt="website6" src="https://user-images.githubusercontent.com/46803937/93248514-edb06100-f75d-11ea-9dfc-2db968647eba.png"> <img width="1000" alt="website5" src="https://user-images.githubusercontent.com/46803937/93248512-edb06100-f75d-11ea-9a0e-5f32d9119bb2.png">
 
 ## Forms:
-The forms are defined as subclasses of Flaskform, with properly defined validators. 
+The forms are defined as subclasses of Flaskform, with properly defined validators. Building this application helped me better understand Flask while dealing with databases, accepting and validating user input from (register/ login) forms, and saving data onto backend file systems. I used an SQLite database to store users and data during development. 
+
 <img width="1000" alt="website4" src="https://user-images.githubusercontent.com/46803937/93248511-edb06100-f75d-11ea-8e31-2e623ebc1387.png">
 
-Building this application helped me better understand Flask while dealing with databases, accepting and validating user input from (register/ login) forms, and saving data onto backend file systems. I used an SQLite database to store users and data during development. 
-
-Some other snippets: 
+Some other snippets of the site: 
 <img width="1000" alt="website2" src="https://user-images.githubusercontent.com/46803937/93248509-ed17ca80-f75d-11ea-8975-18c20985d52c.png">
 <img width="1000" alt="website3" src="https://user-images.githubusercontent.com/46803937/93248510-ed17ca80-f75d-11ea-97b5-c971b79e2092.png">
 
